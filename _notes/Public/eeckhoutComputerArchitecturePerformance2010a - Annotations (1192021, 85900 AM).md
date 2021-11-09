@@ -1,3 +1,8 @@
+---
+title:
+notetype: feed 
+date: 
+---
 * Mdnotes File Name: [[eeckhoutComputerArchitecturePerformance2010a]]
 
 # Annotations(2021-11-08)
