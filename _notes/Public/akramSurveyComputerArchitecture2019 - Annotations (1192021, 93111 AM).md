@@ -1,7 +1,7 @@
 ---
-title:
+title: "akramSurveyComputerArchitecture2019"
 notetype: feed 
-date: 
+date: 09-11-2021
 ---
 
 * Mdnotes File Name: [[akramSurveyComputerArchitecture2019]]
