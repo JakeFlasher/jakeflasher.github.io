@@ -1,7 +1,7 @@
 ---
-title:
+title: "akramSurveyComputerArchitecture2019.md"
 notetype: feed 
-date: 
+date: 09-11-2021
 type: Article
 alias: akramSurveyComputerArchitecture2019
 tags: Computer architecture,Computational modeling,validation,Tools,Object oriented modeling,Timing,Microarchitecture,Adaptation models,×86 simulators,Computer architecture simulators,simulation techniques,simulators evaluation
