@@ -1,7 +1,7 @@
 ---
-title:
+title: "eeckhoutComputerArchitecturePerformance2010a - Annotations (1192021, 85900 AM).md"
 notetype: feed 
-date: 
+date: 09-11-2021
 ---
 * Mdnotes File Name: [[eeckhoutComputerArchitecturePerformance2010a]]
 
