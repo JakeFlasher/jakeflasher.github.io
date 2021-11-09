@@ -1,3 +1,9 @@
+---
+title:
+notetype: feed 
+date: 
+---
+
 * Mdnotes File Name: [[akramSurveyComputerArchitecture2019]]
 
 # Annotations(2021-11-08)
